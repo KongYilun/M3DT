@@ -1,0 +1,98 @@
+{
+  "subset_0": [
+    "basketball-v2",
+    "bin-picking-v2",
+    "button-press-v2",
+    "button-press-topdown-v2",
+    "button-press-wall-v2",
+    "coffee-button-v2",
+    "dial-turn-v2",
+    "disassemble-v2",
+    "door-lock-v2",
+    "faucet-open-v2"
+  ],
+  "subset_1": [
+    "handle-pull-v2",
+    "peg-insert-side-v2",
+    "pick-out-of-hole-v2",
+    "push-back-v2",
+    "pick-place-v2",
+    "plate-slide-v2",
+    "plate-slide-back-v2",
+    "soccer-v2",
+    "shelf-place-v2",
+    "window-open-v2"
+  ],
+  "subset_2": [
+    "hammer-v2",
+    "stick-pull-v2",
+    "walker-stand",
+    "reacher-hard",
+    "pendulum-swingup",
+    "cartpole-balance",
+    "cartpole-balance-sparse",
+    "acrobot-swingup",
+    "cup-catch",
+    "finger-spin"
+  ],
+  "subset_3": [
+    "finger-turn-easy",
+    "finger-turn-hard",
+    "hopper-stand",
+    "walker-walk-backwards",
+    "cheetah-run-backwards",
+    "cheetah-run-front",
+    "cheetah-jump",
+    "cup-spin",
+    "pendulum-spin",
+    "ant-dir-2"
+  ],
+  "subset_4": [
+    "ant-dir-3",
+    "ant-dir-4",
+    "ant-dir-5",
+    "ant-dir-6",
+    "ant-dir-7",
+    "ant-dir-8",
+    "ant-dir-9",
+    "ant-dir-10",
+    "ant-dir-11",
+    "ant-dir-13"
+  ],
+  "subset_5": [
+    "ant-dir-15",
+    "ant-dir-19",
+    "ant-dir-24",
+    "ant-dir-25",
+    "ant-dir-27",
+    "ant-dir-28",
+    "ant-dir-32",
+    "ant-dir-33",
+    "ant-dir-34",
+    "ant-dir-35"
+  ],
+  "subset_6": [
+    "ant-dir-36",
+    "cheetah-vel-1",
+    "cheetah-vel-4",
+    "cheetah-vel-5",
+    "cheetah-vel-7",
+    "cheetah-vel-9",
+    "cheetah-vel-14",
+    "cheetah-vel-15",
+    "cheetah-vel-18",
+    "cheetah-vel-22"
+  ],
+  "subset_7": [
+    "cheetah-vel-24",
+    "cheetah-vel-25",
+    "cheetah-vel-28",
+    "cheetah-vel-29",
+    "cheetah-vel-30",
+    "cheetah-vel-34",
+    "cheetah-vel-35",
+    "cheetah-vel-36",
+    "cheetah-vel-37",
+    "cheetah-vel-39"
+  ]
+}
