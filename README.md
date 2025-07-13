@@ -10,6 +10,7 @@ Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decisi
 
 <h4> |<a href="https://arxiv.org/abs/2505.24378"> 📑 Paper </a> |
 <a href="https://github.com/KongYilun/M3DT"> 🐱 Github Repo </a> |
+    <a href="https://huggingface.co/Yilun-Kong/M3DT/tree/main"> 🤗 Huggingface Models </a> |
 </h4>
 
 <!-- **Authors:** -->
